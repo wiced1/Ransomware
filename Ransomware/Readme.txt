@@ -1,0 +1,1 @@
+to use lock hard drive copy the file in to "this pc" and run
